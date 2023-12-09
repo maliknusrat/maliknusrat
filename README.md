@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**maliknusrat/maliknusrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi there 👋, I am Malik Nusrat Nahar Nuhin
+#### CSE Undergraduate
+![CSE Undergraduate](https://www.canva.com/design/DAF2gdOec9c/Imye7nNfHivrsDmnnHw9ng/view?utm_content=DAF2gdOec9c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+Creative front-end developer shaping digital landscapes with HTML, CSS, and JavaScript. Crafting visually stunning and user-centric web experiences.
+
+Skills:   REACT /Node JS/ JS / HTML / CSS/Tailwind
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
