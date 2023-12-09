@@ -11,7 +11,7 @@ Skills:   REACT /Node JS/ JS / HTML / CSS/Tailwind
 - 📫 How to reach me: maliknusrat798@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maliknusrat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nusratnuhin-3a2992221/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maliknusrat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/nusratnuhin-3a2992221)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maliknusrat)](https://github.com/anuraghazra/github-readme-stats)
 
